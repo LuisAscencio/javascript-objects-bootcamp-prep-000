@@ -7,8 +7,7 @@ playlist[artistNames]= songtitles
 return  playlist
 
 function removeFromPlaylist(playlist,artistNames){
-delete.[artistNames]
-
+delete.playlist[artistNames]
 }
 
 return  playlist
