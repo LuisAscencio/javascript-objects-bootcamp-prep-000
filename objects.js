@@ -1,4 +1,4 @@
-var playlist ={ artistNames: "song titles" }
+var playlist ={ "soda Stereo: "song titles" }
 
 
 function updatePlaylist(playlist,artistNames, songtitles){
