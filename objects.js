@@ -6,6 +6,6 @@ playlist[artistNames]= songtitles
 }
 
 
-function updatePlaylist(playlist,artistNames, songtitles){
+function removeFromPlaylist(playlist,artistNames){
 playlist[artistNames]= songtitles
 }
